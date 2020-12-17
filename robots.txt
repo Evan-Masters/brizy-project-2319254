@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /assets/
+
+User-agent: *
+Disallow:
+
+sitemap: https://www.handymanserviceofindiana.com/sitemap.xml
